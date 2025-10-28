@@ -3,7 +3,7 @@ import React from 'react'
 const t = () => {
   return (
     <div>
-      Nextora Viel GELD
+      Nextora Viel
     </div>
   )
 }
