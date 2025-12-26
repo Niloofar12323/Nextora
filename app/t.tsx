@@ -1,9 +1,10 @@
 import React from 'react'
 
-const t = () => {
+function t() {
   return (
     <div>
-      Nextora Geld git Geld Geld  Geld Geld  Geld viel viel viel  Geld
+      Geld viel Geld
+    </div>
   )
 }
 
